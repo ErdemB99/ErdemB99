@@ -1,5 +1,7 @@
 # 💫 About Me:
-Data Science and Business Analytics @Bocconi. I build AI products end-to-end (Python/SQL → FastAPI/Streamlit), mostly around LLMs, agents & RAG. Ex-BMW | IBM | Deloitte | Siemens
+- Data Science and Business Analytics @Bocconi
+- I build AI products end-to-end (Python/SQL → FastAPI/Streamlit), mostly around LLMs, agents & RAG.
+- Ex-BMW | IBM | Deloitte | Siemens
 
 
 ## 🌐 Socials:
