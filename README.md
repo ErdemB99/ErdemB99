@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Data Science and Business Analytics @Bocconi
 - I build AI products end-to-end (Python/SQL → FastAPI/Streamlit), mostly around LLMs, agents & RAG.
+- Researcher Bocconi Statistics and Data Science Association | Bocconi Statistics and Machine Learning Association
 - Ex-BMW | IBM | Deloitte | Siemens
 
 
